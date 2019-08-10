@@ -4,6 +4,8 @@
 	"description": "Which kind of boxed JS primitive is this?",
 	"main": "index.js",
 	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
@@ -23,5 +25,9 @@
 	"bugs": {
 		"url": "https://github.com/ljharb/which-boxed-primitive/issues"
 	},
-	"homepage": "https://github.com/ljharb/which-boxed-primitive#readme"
+	"homepage": "https://github.com/ljharb/which-boxed-primitive#readme",
+	"devDependencies": {
+		"@ljharb/eslint-config": "^14.0.2",
+		"eslint": "^6.1.0"
+	}
 }
