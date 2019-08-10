@@ -1,9 +1,11 @@
 {
 	"name": "which-boxed-primitive",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Which kind of boxed JS primitive is this?",
 	"main": "index.js",
 	"scripts": {
+		"preversion": "auto-changelog",
+		"prepublish": "safe-publish-latest",
 		"lint": "eslint .",
 		"pretest": "npm run lint",
 		"tests-only": "node test",
@@ -37,9 +39,16 @@
 	},
 	"devDependencies": {
 		"@ljharb/eslint-config": "^14.0.2",
+		"auto-changelog": "^1.14.1",
 		"eslint": "^6.1.0",
 		"has-symbols": "^1.0.0",
 		"object-inspect": "^1.6.0",
+		"safe-publish-latest": "^1.1.2",
 		"tape": "^4.11.0"
+	},
+	"auto-changelog": {
+		"backfillLimit": false,
+		"commitLimit": false,
+		"template": "keepachangelog"
 	}
 }
