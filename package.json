@@ -26,6 +26,13 @@
 		"url": "https://github.com/ljharb/which-boxed-primitive/issues"
 	},
 	"homepage": "https://github.com/ljharb/which-boxed-primitive#readme",
+	"dependencies": {
+		"is-bigint": "^1.0.0",
+		"is-boolean-object": "^1.0.0",
+		"is-number-object": "^1.0.3",
+		"is-string": "^1.0.4",
+		"is-symbol": "^1.0.2"
+	},
 	"devDependencies": {
 		"@ljharb/eslint-config": "^14.0.2",
 		"eslint": "^6.1.0"
