@@ -6,7 +6,8 @@
 	"scripts": {
 		"lint": "eslint .",
 		"pretest": "npm run lint",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"tests-only": "node test",
+		"test": "npm run tests-only"
 	},
 	"repository": {
 		"type": "git",
@@ -35,6 +36,9 @@
 	},
 	"devDependencies": {
 		"@ljharb/eslint-config": "^14.0.2",
-		"eslint": "^6.1.0"
+		"eslint": "^6.1.0",
+		"has-symbols": "^1.0.0",
+		"object-inspect": "^1.6.0",
+		"tape": "^4.11.0"
 	}
 }
