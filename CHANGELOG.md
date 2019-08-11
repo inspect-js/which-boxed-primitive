@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Commits
 
-- [meta] avoid running `safe-publish-latest` when not publishing [`140be87`](https://github.com/ljharb/which-boxed-primitive/commit/140be875149a3f413c80b68688d6edc92f668103)
+- [meta] avoid running `safe-publish-latest` when not publishing [`df44b27`](https://github.com/ljharb/which-boxed-primitive/commit/df44b27875a8f5c3c596663ecb4a063f9fc7bde3)
 
 ## v1.0.0 - 2019-08-10
 
