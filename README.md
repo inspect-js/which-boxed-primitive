@@ -17,7 +17,7 @@ var whichBoxedPrimitive = require('which-boxed-primitive');
 var assert = require('assert');
 
 // unboxed primitives return `null`
-// boxed primitives return the builtin contructor name
+// boxed primitives return the builtin constructor name
 
 assert.equal(whichBoxedPrimitive(undefined), null);
 assert.equal(whichBoxedPrimitive(null), null);
