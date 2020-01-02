@@ -37,10 +37,10 @@
 	"homepage": "https://github.com/ljharb/which-boxed-primitive#readme",
 	"dependencies": {
 		"is-bigint": "^1.0.0",
-		"is-boolean-object": "^1.0.0",
-		"is-number-object": "^1.0.3",
-		"is-string": "^1.0.4",
-		"is-symbol": "^1.0.2"
+		"is-boolean-object": "^1.0.1",
+		"is-number-object": "^1.0.4",
+		"is-string": "^1.0.5",
+		"is-symbol": "^1.0.3"
 	},
 	"devDependencies": {
 		"@ljharb/eslint-config": "^15.0.2",
