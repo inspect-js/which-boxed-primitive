@@ -43,14 +43,14 @@
 		"is-symbol": "^1.0.3"
 	},
 	"devDependencies": {
-		"@ljharb/eslint-config": "^15.0.2",
+		"@ljharb/eslint-config": "^15.1.0",
 		"auto-changelog": "^1.16.2",
-		"eslint": "^6.6.0",
+		"eslint": "^6.8.0",
 		"has-symbols": "^1.0.1",
 		"in-publish": "^2.0.0",
 		"object-inspect": "^1.7.0",
 		"safe-publish-latest": "^1.1.4",
-		"tape": "^4.11.0"
+		"tape": "^4.12.1"
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
