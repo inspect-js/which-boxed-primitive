@@ -1,6 +1,5 @@
 # which-boxed-primitive <sup>[![Version Badge][2]][1]</sup>
 
-[![Build Status][3]][4]
 [![dependency status][5]][6]
 [![dev dependency status][7]][8]
 [![License][license-image]][license-url]
@@ -62,15 +61,13 @@ assert.equal(whichBoxedPrimitive([]), undefined);
 Simply clone the repo, `npm install`, and run `npm test`
 
 [1]: https://npmjs.org/package/which-boxed-primitive
-[2]: http://versionbadg.es/ljharb/which-boxed-primitive.svg
-[3]: https://travis-ci.org/ljharb/which-boxed-primitive.svg
-[4]: https://travis-ci.org/ljharb/which-boxed-primitive
-[5]: https://david-dm.org/ljharb/which-boxed-primitive.svg
-[6]: https://david-dm.org/ljharb/which-boxed-primitive
-[7]: https://david-dm.org/ljharb/which-boxed-primitive/dev-status.svg
-[8]: https://david-dm.org/ljharb/which-boxed-primitive#info=devDependencies
+[2]: https://versionbadg.es/inspect-js/which-boxed-primitive.svg
+[5]: https://david-dm.org/inspect-js/which-boxed-primitive.svg
+[6]: https://david-dm.org/inspect-js/which-boxed-primitive
+[7]: https://david-dm.org/inspect-js/which-boxed-primitive/dev-status.svg
+[8]: https://david-dm.org/inspect-js/which-boxed-primitive#info=devDependencies
 [11]: https://nodei.co/npm/which-boxed-primitive.png?downloads=true&stars=true
-[license-image]: http://img.shields.io/npm/l/which-boxed-primitive.svg
+[license-image]: https://img.shields.io/npm/l/which-boxed-primitive.svg
 [license-url]: LICENSE
-[downloads-image]: http://img.shields.io/npm/dm/which-boxed-primitive.svg
-[downloads-url]: http://npm-stat.com/charts.html?package=which-boxed-primitive
+[downloads-image]: https://img.shields.io/npm/dm/which-boxed-primitive.svg
+[downloads-url]: https://npm-stat.com/charts.html?package=which-boxed-primitive

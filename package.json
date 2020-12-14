@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ljharb/which-boxed-primitive.git"
+		"url": "git+https://github.com/inspect-js/which-boxed-primitive.git"
 	},
 	"keywords": [
 		"boxed",
@@ -32,9 +32,9 @@
 	},
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ljharb/which-boxed-primitive/issues"
+		"url": "https://github.com/inspect-js/which-boxed-primitive/issues"
 	},
-	"homepage": "https://github.com/ljharb/which-boxed-primitive#readme",
+	"homepage": "https://github.com/inspect-js/which-boxed-primitive#readme",
 	"dependencies": {
 		"is-bigint": "^1.0.0",
 		"is-boolean-object": "^1.0.1",
