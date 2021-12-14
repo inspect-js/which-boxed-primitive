@@ -37,11 +37,11 @@
 	},
 	"homepage": "https://github.com/inspect-js/which-boxed-primitive#readme",
 	"dependencies": {
-		"is-bigint": "^1.0.1",
-		"is-boolean-object": "^1.1.0",
-		"is-number-object": "^1.0.4",
-		"is-string": "^1.0.5",
-		"is-symbol": "^1.0.3"
+		"is-bigint": "^1.0.4",
+		"is-boolean-object": "^1.1.2",
+		"is-number-object": "^1.0.6",
+		"is-string": "^1.0.7",
+		"is-symbol": "^1.0.4"
 	},
 	"devDependencies": {
 		"@ljharb/eslint-config": "^20.0.0",
