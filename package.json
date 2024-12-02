@@ -1,6 +1,6 @@
 {
 	"name": "which-boxed-primitive",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"description": "Which kind of boxed JS primitive is this?",
 	"main": "index.js",
 	"scripts": {
