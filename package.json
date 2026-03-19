@@ -39,7 +39,7 @@
 	"homepage": "https://github.com/inspect-js/which-boxed-primitive#readme",
 	"dependencies": {
 		"is-bigint": "^1.1.0",
-		"is-boolean-object": "^1.2.1",
+		"is-boolean-object": "^1.2.2",
 		"is-number-object": "^1.1.1",
 		"is-string": "^1.1.1",
 		"is-symbol": "^1.1.1"
